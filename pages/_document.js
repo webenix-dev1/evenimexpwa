@@ -31,7 +31,7 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <meta property="og:title" content="Evenimex" />
-          <link href="fonts/style.css" rel="stylesheet"></link>
+          {/* <link href="fonts/style.css" rel="stylesheet"></link>
           <link rel="icon" href="favicon.ico" />
           <link href="fonts/stylesheet.css" rel="stylesheet"></link>
           <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -53,7 +53,7 @@ class MyDocument extends Document {
           <script href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
           <script src="https://unpkg.com/react/umd/react.production.min.js"></script>
           <script src="https://unpkg.com/react-dom/umd/react-dom.production.min.js"></script>
-          <script src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.min.js"></script>
+          <script src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.min.js"></script> */}
         </Head>
         <body>
           <Main />
