@@ -12,7 +12,8 @@ const HeaderComponent = () => {
           <Container>
             <Navbar.Brand href="#home">
               {/* <Image src={HeaderLogo} alt="Logo" width={146} height={36} /> */}
-              <img src="/images/logo.png" alt="HeaderLogo" />
+
+              <img src="../../assets/images/logo.png" alt="HeaderLogo"/>
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse
