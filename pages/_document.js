@@ -31,7 +31,7 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <meta property="og:title" content="Evenimex" />
-          {/* <link href="fonts/style.css" rel="stylesheet"></link>
+          <link href="fonts/style.css" rel="stylesheet"></link>
           <link rel="icon" href="favicon.ico" />
           <link href="fonts/stylesheet.css" rel="stylesheet"></link>
           <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -43,27 +43,21 @@ class MyDocument extends Document {
           <link
             rel="stylesheet"
             href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
-            integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
-<<<<<<< HEAD
-            
-=======
-            crossOrigin="anonymous"
->>>>>>> parent of 13c2870 (small change)
-          />
+            integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" />
           <link
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
             rel="stylesheet"
           />
           <script href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
-<<<<<<< HEAD
+
           {/* <script src="https://unpkg.com/react/umd/react.production.min.js"></script>
           <script src="https://unpkg.com/react-dom/umd/react-dom.production.min.js"></script> */}
           <script src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.min.js"></script>
-=======
+
           <script src="https://unpkg.com/react/umd/react.production.min.js"></script>
           <script src="https://unpkg.com/react-dom/umd/react-dom.production.min.js"></script>
-          <script src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.min.js"></script> */}
->>>>>>> parent of 13c2870 (small change)
+          <script src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.min.js"></script> 
+
         </Head>
         <body>
           <Main />
